@@ -1,0 +1,14 @@
+# Written by the agents (into the target repo, or next to this code). Never commit them.
+migration_state.json
+migration_state.json.tmp
+progress.md
+decisions.md
+.migration/
+runs/
+results/
+*.log
+*.codemig.tmp
+
+# Python
+__pycache__/
+*.pyc
